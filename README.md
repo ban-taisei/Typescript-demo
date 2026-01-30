@@ -1,5 +1,5 @@
 今回はTypeScriptのチュートリアルを行いました。
-サバイバルTypeScript（https://typescriptbook.jp/tutorials）を基に、実際に手を動かすことで体験しました。
+「サバイバルTypeScript」を基に、実際に手を動かすことで体験しました。https://typescriptbook.jp/tutorials
 
 内容
 - 開発環境の準備
@@ -28,7 +28,8 @@
 - Next.js：ReactをベースにVercel社が開発したオープンソースのJavaScriptフレームワーク
 - Vercel ：Next.jsを開発しているVercel社が提供しているフロントエンド向けのクラウドプラットフォーム
 
-今後使いそうな開発環境の流れをまとめておきます。
+今後も利用できる開発環境の作成手順をまとめておきます。
+
 
 
 
