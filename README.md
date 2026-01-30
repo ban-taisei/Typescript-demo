@@ -55,6 +55,25 @@
   npm run dev
 
 
+ファイル
+.
+├── app/
+│   ├── favicon.ico
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── node_modules/
+├── public/
+├── .gitignore
+├── eslint.config.mjs
+├── .next/
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.mjs
+├── README.md
+└── tsconfig.json
 
 
 
